@@ -30,7 +30,7 @@ avatar:
 
 
 # AboutPage background, support multiple images.
-about_big_image: [css/images/pose01.jpg, https://source.unsplash.com/collection/954550/1920x1080, https://source.unsplash.com/collection/954550/1920x1081]
+about_big_image: 
 
 
 # Homepage thumbnail
@@ -45,7 +45,6 @@ fancybox: true
 sidebar: right
 widgets:
 - search
-- social
 - recent_posts
 - category
 - tag
@@ -56,7 +55,7 @@ widgets:
 # Key is the name of FontAwsome icon.
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
-  Github: https://github.com/iTimeTraveler
+  Github: 
   Weibo: 
   Twitter: 
   Facebook: 
@@ -73,8 +72,8 @@ search:
 
 # comment ShortName, you can choose only ONE to display.
 duoshuo_shortname: 
-disqus_shortname: 
-livere_shortname: MTAyMC8yOTQ4MS82MDQ5
+disqus_shortname: Test
+livere_shortname: 
 uyan_uid: 
 wumii: 
 
@@ -101,7 +100,7 @@ google_analytics:
 gauges_analytics:
 baidu_analytics:
 tencent_analytics:
-busuanzi_analytics: true
+busuanzi_analytics: 
 twitter:
 google_plus:
 fb_admins:
@@ -117,4 +116,4 @@ facebook_sdk:
   webmaster:    #true
 
 # CNZZ count
-cnzz_siteid: 1260716016
+cnzz_siteid: 
